@@ -1,10 +1,10 @@
 === Email Confirmation for Restrict Content Pro ===
-Author URI: 		https://angelvilches.com
-Author: 			Ángel Vilches
-Contributors: 		angelvilches
-Tags: 				restrict pages, restrict posts, restrict access, registration form
-Requires at least: 	3.9
-Tested up to: 		5.4.1
+Author URI: https://angelvilches.com
+Author: Ángel Vilches
+Contributors: angelvilches
+Tags: restrict pages, restrict posts, restrict access, registration form
+Requires at least:	4.0
+Tested up to: 		5.4
 Stable tag: 		1.0
 
 == Description ==
