@@ -1,0 +1,44 @@
+# Copyright (C) 2020 Email Confirmation for Restrict Content Pro
+# This file is distributed under the same license as the Email Confirmation for Restrict Content Pro package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Email Confirmation for Restrict Content Pro 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/emailconfirmation-rcp\n"
+"POT-Creation-Date: 2020-05-10 18:13:17+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: emailconfirmation-rcp.php:35
+msgid "Sorry, but Email confirmation for Restrict Content Pro requires Restrict Content Pro plugin to be installed and active."
+msgstr ""
+
+#: emailconfirmation-rcp.php:67
+msgid "Email"
+msgstr ""
+
+#: emailconfirmation-rcp.php:87
+msgid "Your emails do not match"
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "Email Confirmation for Restrict Content Pro"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/angelvilches/emailconfirmation-rcp"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "This plugin allow you to add a confirmation email field for Restrict Content Pro register form and use the email as username."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Ángel Vilches"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://angelvilches.com"
+msgstr ""

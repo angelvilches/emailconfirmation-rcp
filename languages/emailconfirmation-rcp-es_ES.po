@@ -1,0 +1,58 @@
+# Copyright (C) 2020 Email Confirmation for Restrict Content Pro
+# This file is distributed under the same license as the Email Confirmation for Restrict Content Pro package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Email Confirmation for Restrict Content Pro 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/emailconfirmation-"
+"rcp\n"
+"POT-Creation-Date: 2020-05-10 17:38:28+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-05-10 19:42+0200\n"
+"Language-Team: \n"
+"X-Generator: Poedit 2.3.1\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es_ES\n"
+
+#: emailconfirmation-rcp.php:35
+msgid ""
+"Sorry, but Email confirmation for Restrict Content Pro requires Restrict "
+"Content Pro plugin to be installed and active."
+msgstr ""
+"Discupa, Email confirmation for Restrict Content Pro necesita que el plugin "
+"Restrict Content Pro esté activo e instalado para funcionar."
+
+#: emailconfirmation-rcp.php:67
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: emailconfirmation-rcp.php:87
+msgid "Your emails do not match"
+msgstr "Los correos electrónicos no coinciden"
+
+#. Plugin Name of the plugin/theme
+msgid "Email Confirmation for Restrict Content Pro"
+msgstr "Email Confirmation for Restrict Content Pro"
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/angelvilches/emailconfirmation-rcp"
+msgstr "https://github.com/angelvilches/emailconfirmation-rcp"
+
+#. Description of the plugin/theme
+msgid ""
+"This plugin allow you to add a confirmation email field for Restrict Content "
+"Pro register form and use the email as username."
+msgstr ""
+"Este plugin te permite añadir un campo de confirmación de email para el "
+"formulario de registro de Restrict Content Pro y utilizar el email como "
+"nombre de usuario."
+
+#. Author of the plugin/theme
+msgid "Ángel Vilches"
+msgstr "Ángel Vilches"
+
+#. Author URI of the plugin/theme
+msgid "https://www.angelvilches.com"
+msgstr "https://www.angelvilches.com"
