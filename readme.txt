@@ -1,11 +1,13 @@
 === Email Confirmation for Restrict Content Pro ===
-Author URI: https://angelvilches.com
-Author: Ángel Vilches
-Contributors: angelvilches
-Tags: restrict pages, restrict posts, restrict access, registration form
-Requires at least:	4.0
-Tested up to: 		5.4
+Author URI: 		https://angelvilches.com
+Author: 			Ángel Vilches
+Contributors: 		angelvilches
+Tags: 				restrict content pro, restric pages, restrict posts, restrict access, registration form
+Requires at least: 	3.9
+Tested up to: 		5.4.1
 Stable tag: 		1.0
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
